@@ -1,0 +1,6 @@
+FirstName,LastName,SamAccountName,UserName,OU,JobTitle,Password
+Snacks,Cat,snacks,snacks,"OU=Executive,OU=Headquarters,DC=sparklekitten,DC=local",CEO,ChangeM3!
+Whisper,Cat,whisper,whisper,"OU=Finance,OU=Headquarters,DC=sparklekitten,DC=local",Director of HR,ChangeM3!
+Sherman,Cat,sherman,sherman,"OU=HR,OU=Headquarters,DC=sparklekitten,DC=local",Director of Finance,ChangeM3!
+Winter,Cat,winter,winter,"OU=IT,OU=Headquarters,DC=sparklekitten,DC=local",Director of IT,ChangeM3!
+Merv,Bagawa,merv,merv,"OU=Product-Design,OU=Headquarters,DC=sparklekitten,DC=local",Directory of Product-Design,ChangeM3!
